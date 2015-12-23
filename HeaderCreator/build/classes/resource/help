@@ -1,0 +1,19 @@
+<html>
+<body>
+<h1>Header Creator ver.1.0.b</h1>
+<h2>Main Options</h2>
+<p>Before you start remotely workstation please check parameters (send request to IT service for parameters).</p>
+<ul>
+  <li>Select option   - Choose picture for convert (example.jpg).</li>
+  <li>Generate option - Convert picture and generate header file.</li>
+  <li>Exit option     - Exit form Application.</li>
+</ul>
+<p>Convert process</p>
+<p>Select only pictures with size: 240x320 (px).</p>
+<p>First choose picture (*.gif, *.jpg, .jpeg, *.png, *.bmp)
+with option Select then press Generate button and type name
+of header file(example: myImage.h).
+For higher resolution you can get in touch.</p>
+<p>Enjoy!</p>
+</body>
+</html>

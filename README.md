@@ -15,7 +15,8 @@ DEPENDENCIES
 
 This tool requires these other modules and libraries:
 
-	None
+	[Utilities](https://github.com/vroncevic/Utilities/blob/master/README.md)
+	[apptemplate](https://github.com/vroncevic/apptemplate/blob/master/README.md)
 
 COPYRIGHT AND LICENCE
 

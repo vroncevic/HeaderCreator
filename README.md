@@ -15,8 +15,8 @@ DEPENDENCIES
 
 This tool requires these other modules and libraries:
 
-	[Utilities](https://github.com/vroncevic/Utilities)
-	[apptemplate](https://github.com/vroncevic/apptemplate)
+	[Utilities]
+	[apptemplate]
 
 COPYRIGHT AND LICENCE
 

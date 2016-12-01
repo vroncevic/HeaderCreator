@@ -15,8 +15,7 @@ DEPENDENCIES
 
 This tool requires these other modules and libraries:
 
-	[Utilities]
-	[apptemplate]
+	None
 
 COPYRIGHT AND LICENCE
 

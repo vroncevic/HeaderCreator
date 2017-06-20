@@ -15,7 +15,7 @@ DEPENDENCIES
 
 This tool requires these other modules and libraries:
 
-	None
+	Utilities   https://github.com/vroncevic/apptemplate
 
 COPYRIGHT AND LICENCE
 
@@ -24,5 +24,5 @@ Copyright (C) 2016 by https://github.com/vroncevic/HeaderCreator
 This tool is free software; you can redistribute it and/or modify it.
 
 ![alt tag](https://raw.githubusercontent.com/vroncevic/HeaderCreator/master/java_logo.png)
-![alt tag](https://raw.githubusercontent.com/vroncevic/HeaderCreator/master/linux_logo.jpg)
+![alt tag](https://raw.githubusercontent.com/vroncevic/HeaderCreator/master/linux_logo.png)
 
